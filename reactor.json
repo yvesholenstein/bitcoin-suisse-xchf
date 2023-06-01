@@ -1,0 +1,11 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "yvesholenstein",
+    "repo": "bitcoin-suisse-xchf",
+    "branch": "master"
+  },
+  "name": "Bitcoin Suisse XCHF",
+  "description": "",
+  "version": "1.0.0"
+}
